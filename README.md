@@ -37,7 +37,7 @@ echo 'export PANGRAM_API_KEY=your-api-key-here' >> ~/.zshrc
 ### 4. Install the Plugin
 
 ```bash
-/plugin marketplace add your-username/slop-detector
+/plugin marketplace add sudhanshuheda/slop-detector
 /plugin install slop-detector
 ```
 
