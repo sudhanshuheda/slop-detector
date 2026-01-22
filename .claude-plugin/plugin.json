@@ -1,0 +1,11 @@
+{
+  "name": "slop-detector",
+  "description": "Detects AI-generated emails using Pangram Labs and labels them as slop in Gmail",
+  "version": "1.0.0",
+  "author": {
+    "name": "sudhanshu"
+  },
+  "repository": "https://github.com/sudhanshu/slop-detector",
+  "license": "MIT",
+  "keywords": ["email", "ai-detection", "gmail", "slop", "pangram"]
+}

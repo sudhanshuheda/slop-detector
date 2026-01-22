@@ -1,0 +1,14 @@
+{
+  "name": "slop-detector-marketplace",
+  "owner": {
+    "name": "sudhanshu"
+  },
+  "plugins": [
+    {
+      "name": "slop-detector",
+      "source": ".",
+      "description": "Detects AI-generated emails using Pangram Labs and labels them as slop in Gmail",
+      "version": "1.0.0"
+    }
+  ]
+}
